@@ -45,6 +45,19 @@ This project followed an Agile methodology for this project, collaborating close
 
 http://bit.ly/3U6MmwQ
 
+![image](https://github.com/user-attachments/assets/e6adf9aa-1fc0-45d3-baf8-3232dbda8126)
+![image](https://github.com/user-attachments/assets/95b1b4cc-9b87-49d0-b8c2-112ad8c203ed)
+![image](https://github.com/user-attachments/assets/653c6bfb-9466-4d0c-a8ed-f49a405b45c1)
+![image](https://github.com/user-attachments/assets/483a666f-bbfc-476c-b066-cb417470a314)
+![image](https://github.com/user-attachments/assets/c7ffb5b5-998c-4944-abd1-a7f54d72faa0)
+![image](https://github.com/user-attachments/assets/b6c32bd2-7cd1-4c49-81b0-ad2cbf679ad4)
+
+
+
+
+
+
+
   
 
 
