@@ -10,11 +10,11 @@ As AtliQ continued to grow, they encountered significant operational challenges,
 
 ## **KPIs to Measure Success**
 
-   **1.** 10% increase in profitability.
+- 10% increase in profitability.
   
-   **2.** Reduction in data processing time by 50%.
+- Reduction in data processing time by 50%.
   
-   **3.** Improved decision-making speed by 30%.
+- Improved decision-making speed by 30%.
 
 ## **Project Methodology**
 
