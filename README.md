@@ -41,6 +41,9 @@ This project followed an Agile methodology for this project, collaborating close
 - **Scripting Language:** DAX (Data Analysis Expressions)
 - **Deployment:** Power BI Service, Personal Gateway
 
+## **Dashboard Link**
+
+http://bit.ly/3U6MmwQ
 
   
 
