@@ -33,11 +33,11 @@ This project followed an Agile methodology for this project, collaborating close
 
 ## **Technical Stack**
 
--**Data Source:** MySQL, Excel
--**Data Transformation:** Power Query
--**Modeling & Visualization:** Power BI
--**Scripting Language:** DAX (Data Analysis Expressions)
--**Deployment:** Power BI Service, Personal Gateway
+- **Data Source:** MySQL, Excel
+- **Data Transformation:** Power Query
+- **Modeling & Visualization:** Power BI
+- **Scripting Language:** DAX (Data Analysis Expressions)
+- **Deployment:** Power BI Service, Personal Gateway
 
 
 
