@@ -10,11 +10,11 @@
 
 ### **KPIs to Measure Success**
 
-**1.** 10% increase in profitability.
+    **1.** 10% increase in profitability.
   
-**2.** Reduction in data processing time by 50%.
+    **2.** Reduction in data processing time by 50%.
   
-**3.** Improved decision-making speed by 30%.
+    **3.** Improved decision-making speed by 30%.
 
 ### **Project Methodology**
 
