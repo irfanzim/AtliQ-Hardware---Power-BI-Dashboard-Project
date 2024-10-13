@@ -18,7 +18,7 @@
 
 ## **Project Methodology**
 
-    This project followed an Agile methodology for this project, collaborating closely with AtliQ executives and stakeholders in iterative cycles. Each cycle involved data exploration, report development, stakeholder feedback, and refinement.
+This project followed an Agile methodology for this project, collaborating closely with AtliQ executives and stakeholders in iterative cycles. Each cycle involved data exploration, report development, stakeholder feedback, and refinement.
 
 ### **Key Learnings and Technical Skills**
 
