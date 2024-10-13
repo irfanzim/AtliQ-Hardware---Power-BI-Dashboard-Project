@@ -39,6 +39,14 @@ This project followed an Agile methodology for this project, collaborating close
 - **Scripting Language:** DAX (Data Analysis Expressions)
 - **Deployment:** Power BI Service, Personal Gateway
 
+## **Challenges and Solutions**
+
+- **Challenge:** Handling almost 2 million datasets without slowing down Power BI reports.
+- **Solution:** Optimized the data model and reduced report size by limiting unnecessary data imports and using calculated columns.
+- **Challenge:** Ensuring stakeholders received real-time data updates.
+- **Solution:** Implemented Power BI service with personal gateways for automatic refresh.
+
+  
 
 
 
