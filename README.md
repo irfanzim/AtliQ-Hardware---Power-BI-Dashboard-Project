@@ -22,6 +22,23 @@
 
 - **Key Learnings and Technical Skills**
 
+- [x]	**Data Collection & Validation:** Importing datasets from MySQL and Excel, and validating for accuracy and consistency.
+- [x]	**Data Transformation:** Using Power Query for ETL processes.
+- [x]	**Date Dimension Creation:** Building a date table for time-based analysis.
+- [x]	**Data Modeling:** Structuring data relationships between tables to ensure a robust model.
+- [x]	**DAX Formula Writing:** Implementing advanced DAX formulas for calculated columns and measures.
+- [x]	**Dynamic Dashboards:** Designing interactive dashboards with slicers, toggle buttons, and tooltips.
+- [x]	**Report Optimization:** Reducing file size for optimal performance.
+- [x]	**Power BI Service:** Publishing reports, setting up automatic data refresh with personal gateways.
+
+
+
+
+
+
+
+
+
     
 
       
