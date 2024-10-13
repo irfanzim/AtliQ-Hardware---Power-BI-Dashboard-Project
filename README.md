@@ -27,7 +27,7 @@ This project followed an Agile methodology for this project, collaborating close
 - [x]	**Date Dimension Creation:** Building a date table for time-based analysis.
 - [x]	**Data Modeling:** Structuring data relationships between tables to ensure a robust model.
 - [x]	**DAX Formula Writing:** Implementing advanced DAX formulas for calculated columns and measures.
-- [x]	**Dynamic Dashboards:** Designing interactive dashboards with slicers, toggle buttons, and tooltips.
+- [x]	**Dynamic Dashboards:** Designing interactive dashboards with slicers, bookmarks, toggle buttons, and tooltips.
 - [x]	**Report Optimization:** Reducing file size for optimal performance.
 - [x]	**Power BI Service:** Publishing reports, setting up automatic data refresh with personal gateways.
 
