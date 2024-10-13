@@ -22,13 +22,15 @@ This project followed an Agile methodology for this project, collaborating close
 
 ## **Key Learnings and Technical Skills**
 
-- [x]	**Data Collection & Validation:** Importing datasets from MySQL and Excel, and validating for accuracy and consistency.
+- [x] **Collaboration with Senior Executives:** Gained a deep understanding of business requirements and aligned project goals to meet organizational objectives.
+- [ ] **Asking the Right Questions:** Ensured clarity in project objectives and success metrics by engaging stakeholders early on.
+- [ ]	**Data Collection & Validation:** Importing datasets from MySQL and Excel, and validating for accuracy and consistency.
 - [x]	**Data Transformation:** Using Power Query for ETL processes.
 - [x]	**Date Dimension Creation:** Building a date table for time-based analysis.
 - [x]	**Data Modeling:** Structuring data relationships between tables to ensure a robust model.
 - [x]	**DAX Formula Writing:** Implementing advanced DAX formulas for calculated columns and measures.
+- [ ]	**Optimizing Large Datasets:** Managed and optimized a dataset of nearly 2 million rows by reducing unnecessary data imports and utilizing calculated columns.
 - [x]	**Dynamic Dashboards:** Designing interactive dashboards with slicers, bookmarks, toggle buttons, and tooltips.
-- [x]	**Report Optimization:** Reducing file size for optimal performance.
 - [x]	**Power BI Service:** Publishing reports, setting up automatic data refresh with personal gateways.
 
 ## **Technical Stack**
@@ -39,12 +41,6 @@ This project followed an Agile methodology for this project, collaborating close
 - **Scripting Language:** DAX (Data Analysis Expressions)
 - **Deployment:** Power BI Service, Personal Gateway
 
-## **Challenges and Solutions**
-
-- **Challenge:** Handling almost 2 million datasets without slowing down Power BI reports.
-- **Solution:** Optimized the data model and reduced report size by limiting unnecessary data imports and using calculated columns.
-- **Challenge:** Ensuring stakeholders received real-time data updates.
-- **Solution:** Implemented Power BI service with personal gateways for automatic refresh.
 
   
 
