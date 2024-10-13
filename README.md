@@ -20,7 +20,7 @@
 
     This project followed an Agile methodology for this project, collaborating closely with AtliQ executives and stakeholders in iterative cycles. Each cycle involved data exploration, report development, stakeholder feedback, and refinement.
 
-## **Key Learnings and Technical Skills**
+### **Key Learnings and Technical Skills**
 
 - [x]	**Data Collection & Validation:** Importing datasets from MySQL and Excel, and validating for accuracy and consistency.
 - [x]	**Data Transformation:** Using Power Query for ETL processes.
