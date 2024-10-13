@@ -1,5 +1,7 @@
 # AtliQ-Hardware---Power-BI-Dashboard-Project
 
+![image](https://github.com/user-attachments/assets/b6c32bd2-7cd1-4c49-81b0-ad2cbf679ad4)
+
 ## **Company Overview:**
 
 AtliQ Hardware is a leading consumer electronics company known for delivering high-quality computer hardware to both retail stores and end customers. With operations expanding across multiple countries, AtliQ quickly became a major player in the electronics market.
