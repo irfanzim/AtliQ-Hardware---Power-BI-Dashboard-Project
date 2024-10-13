@@ -2,11 +2,11 @@
 
 ## **Company Overview:**
 
-    AtliQ Hardware is a leading consumer electronics company known for delivering high-quality computer hardware to both retail stores and end customers. With operations expanding across multiple countries, AtliQ quickly became a major player in the electronics market.
+AtliQ Hardware is a leading consumer electronics company known for delivering high-quality computer hardware to both retail stores and end customers. With operations expanding across multiple countries, AtliQ quickly became a major player in the electronics market.
 
 ## **Project Objective:**
 
-    As AtliQ continued to grow, they encountered significant operational challenges, particularly in Latin America, where the company faced considerable losses. The primary issue? AtliQ was relying on outdated Excel spreadsheets to manage their vast data. The goal of this project was to transition the company to a modern data analytics platform—Power BI in order to enable real-time, data-driven decision-making across finance, sales, marketing, and supply chai
+As AtliQ continued to grow, they encountered significant operational challenges, particularly in Latin America, where the company faced considerable losses. The primary issue? AtliQ was relying on outdated Excel spreadsheets to manage their vast data. The goal of this project was to transition the company to a modern data analytics platform—Power BI in order to enable real-time, data-driven decision-making across finance, sales, marketing, and supply chai
 
 ## **KPIs to Measure Success**
 
@@ -30,6 +30,15 @@ This project followed an Agile methodology for this project, collaborating close
 - [x]	**Dynamic Dashboards:** Designing interactive dashboards with slicers, toggle buttons, and tooltips.
 - [x]	**Report Optimization:** Reducing file size for optimal performance.
 - [x]	**Power BI Service:** Publishing reports, setting up automatic data refresh with personal gateways.
+
+## **Technical Stack**
+
+-**Data Source:** MySQL, Excel
+-**Data Transformation:** Power Query
+-**Modeling & Visualization:** Power BI
+-**Scripting Language:** DAX (Data Analysis Expressions)
+-**Deployment:** Power BI Service, Personal Gateway
+
 
 
 
