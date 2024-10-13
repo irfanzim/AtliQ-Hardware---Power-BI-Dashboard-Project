@@ -22,7 +22,7 @@ This project followed an Agile methodology for this project, collaborating close
 
 ## **Key Learnings and Technical Skills**
 
-- [x] **Collaboration with Senior Executives:** Gained a deep understanding of business requirements and aligned project goals to meet organizational objectives.
+- [x] **Collaboration with Senior Executives:** Gained a deep understanding of business requirements to meet organizational objectives.
 - [ ] **Asking the Right Questions:** Ensured clarity in project objectives and success metrics by engaging stakeholders early on.
 - [ ]	**Data Collection & Validation:** Importing datasets from MySQL and Excel, and validating for accuracy and consistency.
 - [x]	**Data Transformation:** Using Power Query for ETL processes.
